@@ -87,4 +87,45 @@ span{
 font-size: 53px;
 }
 
+h2{
+    padding: 50px;
+    
+    color: aliceblue;
+    background-color: black
+}
 
+.noir{
+    background-color: black
+}
+
+.gears{
+    text-align: center;
+}
+
+.line{
+ background-color:white;
+ color: black;
+ text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+.date{
+    color: white;
+    display: flex;
+    padding: 13px;
+    justify-content: center;
+    background-color: black;
+    
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+}
+.font{
+    
+    background-image: url(assets/banniere-logo.png) ;
+}
+
+    
